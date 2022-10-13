@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.kotak{
+    border: 1px solid black;
+    background-color: white;
+    width: 90%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+}
+.kepala:hover{
+    background-color: plum;
+}
+.kepala{
+    background-color: aqua;
+    width : 100%;
+    text-align: center;
+    padding: 50px 0px 50px 0px;
+    font-family: Georgia, 'Times New Roman',Times,serif;
+    font-size: 50px;
+}
+.badan1{
+    background-color: aquamarine;
+    border: 1px solid black;
+    float: left;
+    width: 25%;
+    height: 500px;
+}
+.badan2{
+    background-color: aquamarine;
+        border: 1px solid black;
+        float: left;
+        width: 50%;
+        height:500px;
+}
+.badan3{
+    background-color: aquamarine;
+    border: 1px solid black;
+    float: right;
+    width: 24.65%;
+    height: 500px;
+}
+.kaki{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 100%;
+    font-size: 36px;
+    clear: both;
+    padding: 50px 0px 50px 0px;
+    text-align: center;
+}
